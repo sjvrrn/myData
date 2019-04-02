@@ -1,0 +1,8 @@
+email:rsramaiah8@gmail.com
+password:Narayana@1
+
+AWS:
+IP:18.222.249.237
+
+
+PhpMyadmin:http://18.222.249.237/phpmyadmin
